@@ -29,6 +29,7 @@ Here is the video for **[Laravel Themer Tutorial](https://www.youtube.com/watch?
 
 > **_NOTE:_**
 >
+> I forked and published this package with support for **Laravel v13**.
 > Laravel Themer v2.x and the above versions support **Vite**.
 > If you want to use **Laravel Mix** then try **[Laravel Themer v1.7.1](https://github.com/qirolab/laravel-themer/tree/1.7.1 "v1.7.1")**
 
